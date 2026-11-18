@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "PASTE_YOUR_PACKAGE_ID",
+      "sha256_cert_fingerprints": [
+        "PASTE_FINGERPRINT_FROM_PWABUILDER",
+        "PASTE_APP_SIGNING_FINGERPRINT_FROM_PLAY_CONSOLE"
+      ]
+    }
+  }
+]

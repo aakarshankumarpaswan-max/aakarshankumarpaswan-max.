@@ -1,0 +1,3 @@
+# lets GitHub Pages serve the .well-known folder
+include:
+  - .well-known
